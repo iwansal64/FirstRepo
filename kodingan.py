@@ -7,3 +7,5 @@ if(data_user == 'y'):
  if(data_user == 'n'):
   print('oh yaudah oke')
   print('emm oke')
+
+  print('makan?')
